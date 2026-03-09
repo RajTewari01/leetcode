@@ -3,8 +3,8 @@
 > *One problem a day. No excuses. No skips.*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Solved-0-34d399?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved" />
-  <img src="https://img.shields.io/badge/Streak-0_days-7c6aff?style=for-the-badge&logo=target&logoColor=white" alt="Streak" />
+  <img src="https://img.shields.io/badge/Solved-1-34d399?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved" />
+  <img src="https://img.shields.io/badge/Streak-1_days-7c6aff?style=for-the-badge&logo=target&logoColor=white" alt="Streak" />
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Language" />
 </div>
 
@@ -33,7 +33,7 @@ leetcode/
 
 | Category                | Solved | Easy | Medium | Hard |
 | :---------------------- | :----: | :--: | :----: | :--: |
-| **Arrays & Hashing**    |   0    |  0   |   0    |  0   |
+| **Arrays & Hashing**    |   1    |  1   |   0    |  0   |
 | **Two Pointers**        |   0    |  0   |   0    |  0   |
 | **Sliding Window**      |   0    |  0   |   0    |  0   |
 | **Stack & Queue**       |   0    |  0   |   0    |  0   |
@@ -47,7 +47,7 @@ leetcode/
 | **Dynamic Programming** |   0    |  0   |   0    |  0   |
 | **Math & Geometry**     |   0    |  0   |   0    |  0   |
 | **Bit Manipulation**    |   0    |  0   |   0    |  0   |
-| **Total**               | **0**  | **0**| **0**  | **0**|
+| **Total**               | **1**  | **1**| **0**  | **0**|
 
 ## 🎯 Primary Goals
 
