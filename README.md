@@ -23,8 +23,9 @@ leetcode/
 ├── README.md               # This repository guide
 └── problems/
     ├── two-sum/            # Example problem directory
-    │   ├── a.py            # Python solution
-    │   └── README.md       # Problem description and approach notes
+    │   ├── question.md     # Problem description
+    │   ├── answer.py       # Python solution
+    │   └── README.md       # Approach notes
     └── ...
 ```
 
